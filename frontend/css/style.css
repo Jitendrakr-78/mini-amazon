@@ -1,5 +1,5 @@
 body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
-header { position: fixed; top: 0; left: 0; width: 100%; z-index: 1000;
+header { position: fixed; top: 0; left: 0; width: 100%; z-index: 800;
     background: #131921; color: white; padding: 15px; 
     display: flex; justify-content: space-between; 
     align-items: center; 
